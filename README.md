@@ -5,10 +5,10 @@ med prosjektet studedit.
 
 Medlemmer av gruppen:
 
-- Hollie Lee Buchanan III
-- Brage Sekse Aarset
+- Hollie Lee Buchanan III h181395
+- Brage Sekse Aarset h579704
 - Sondre Melhus
-- Christopher ???
+- Christopher Nguyen
 - ??? ???
 
 

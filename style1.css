@@ -4,25 +4,22 @@ body {
 }
 h1, h2, h3, h4, h5, h6 {
   color: #6C1D45;
-  font-family:"Rockwell";
+  font-family: "Rockwell";
   text-align: center;
 }
-p, ul, ul li, table, th, tr, td {
+p, ul, ul, li, table, th, tr, td {
   color: #6C1D45;
   font-family:"Helvetica";
   text-align: center;
   padding-left:20%;
   padding-right:20%;
 }
-ul {
-  color: #6C1D45;
-  font-family:"Helvetica";
+ul, li {
   text-align: left;
-  padding-left:400px;
+  padding-left: 27%;
+  list-style-position:inside;
 }
-ul li {
-  list-style-position:inside
-}
+
 table {
   width:60%;
   border: 4px solid black;
