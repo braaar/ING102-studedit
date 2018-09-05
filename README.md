@@ -9,7 +9,4 @@ Medlemmer av gruppen:
 - Brage Sekse Aarset h579704
 - Sondre Melhus
 - Christopher Nguyen
-- ??? ???
-
-
-Denne readmeen ble sist endret 04.09.2018 oh wait github viser jo sånt automatisk
+- Peter L. Liessem
