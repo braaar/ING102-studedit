@@ -1,0 +1,15 @@
+body{background-color: #122C34;}
+
+
+
+img{width: 500px;}
+
+.Topper{width: 100%; background-color: #26547C; padding: 20px; text-align: center;}
+div a{float: left; display: inline-block; background-color: black; padding: 20px;}
+div a: hover{color: white;}
+
+ul li{display: inline-block;}
+ul li p{float: top; padding-left: 10px; padding-right: 10px; background-color: #EF476F}
+
+
+ul ul li{background-color: #6DDCE5; padding: 5px; display: inline-block; width: 150px;  border: 2px solid black; text-align: center;}
