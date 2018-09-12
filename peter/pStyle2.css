@@ -80,7 +80,7 @@ body{
 img{
   width: 500px; 
   animation-name: shake;
-  animation-duration: 0.5s;
+  animation-duration: 0.4s;
   animation-iteration-count: infinite;}
 
 .Topper{
@@ -89,7 +89,7 @@ img{
   padding: 20px; 
   text-align: center; 
   animation-name: shake, Colors, ColorsText;
-  animation-duration: 0.5s;
+  animation-duration: 0.3s;
   animation-iteration-count: infinite;}
 
 
@@ -99,7 +99,7 @@ div a{
   background-color: black; 
   padding: 20px; 
   animation-name: shake, Colors, ColorsText;
-  animation-duration: 0.5s;
+  animation-duration: 0.6s;
   animation-iteration-count: infinite;}
 div a: hover{color: white;}
 
@@ -107,7 +107,7 @@ div a: hover{color: white;}
 ul li{
   display: inline-block; 
   animation-name: shake, Colors, ColorsText;
-  animation-duration: 0.5s;
+  animation-duration: 0.7s;
   animation-iteration-count: infinite;}
   ul li p{
     float: top; 
@@ -125,5 +125,5 @@ ul li{
     border: 2px solid black; 
     text-align: center; 
     animation-name: shake, Colors, ColorsText;
-    animation-duration: 0.5s;
+    animation-duration: 0.2s;
     animation-iteration-count: infinite;}
