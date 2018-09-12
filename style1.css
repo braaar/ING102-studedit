@@ -20,11 +20,14 @@ h1, h2, h3, h4, h5, h6 {
 p, ul, ul, li, table, th, tr, td, span {
   color: #FFFFFF;
   font-family:"Oxygen", sans-serif;
-  text-align: center;
   font-size: 13px;
 }
 
-ul, ul, li, table, th, tr, td {
+p {
+    text-align: center;
+}
+
+/*ul, ul, li, table, th, tr, td {
   padding-left:20%;
   padding-right:20%;
 }
@@ -32,7 +35,7 @@ ul, ul, li, table, th, tr, td {
 ul, ul, li, table, th, tr, td {
   padding-left:20%;
   padding-right:20%;
-}
+}*/
 
 a, a:link, a:visited, a:active{
   color: #0096CF;
