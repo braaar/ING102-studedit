@@ -27,7 +27,7 @@ p {
     text-align: center;
 }
 
-ul, ul, li, table, th, tr, td {
+/*ul, ul, li, table, th, tr, td {
   padding-left:20%;
   padding-right:20%;
 }
@@ -35,7 +35,7 @@ ul, ul, li, table, th, tr, td {
 ul, ul, li, table, th, tr, td {
   padding-left:20%;
   padding-right:20%;
-}
+}*/
 
 a, a:link, a:visited, a:active{
   color: #0096CF;
