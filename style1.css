@@ -17,12 +17,16 @@ h1, h2, h3, h4, h5, h6 {
   text-align: center;
   line-height: 60%;
 }
+<<<<<<< HEAD
+p, ul, li, table, th, tr, td, span {
+=======
 
 img{
   width: 600px;
 }
 
 p, ul, ul, li, table, th, tr, td, span {
+>>>>>>> 8ffdcae6567dd9dc617c7657e1b8c07b4f61c18f
   color: #FFFFFF;
   font-family:"Oxygen", sans-serif;
   text-align: center;
@@ -57,7 +61,9 @@ th, tr, td {
   border: 1px solid black;
   padding:1.2em;
 }
-
+span {
+  padding: 0%
+}
 /* Navbar container */
 .navbar {
   overflow: hidden;
@@ -65,7 +71,6 @@ th, tr, td {
   font-family: Arial;
   border-radius: 5px;
 }
-
 /* Links inside the navbar */
 .navbar a {
   float: left;
