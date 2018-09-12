@@ -17,7 +17,16 @@ h1, h2, h3, h4, h5, h6 {
   text-align: center;
   line-height: 60%;
 }
+<<<<<<< HEAD
 p, ul, li, table, th, tr, td, span {
+=======
+
+img{
+  width: 600px;
+}
+
+p, ul, ul, li, table, th, tr, td, span {
+>>>>>>> 8ffdcae6567dd9dc617c7657e1b8c07b4f61c18f
   color: #FFFFFF;
   font-family:"Oxygen", sans-serif;
   text-align: center;
@@ -26,8 +35,14 @@ p, ul, li, table, th, tr, td, span {
   font-size: 13px;
 }
 
-a, a:link, a:visited, a:hover, a:active{
+a, a:link, a:visited, a:active{
   color: #0096CF;
+  text-decoration: none;
+
+}
+a:hover{
+  color: #0096CF;
+  text-decoration: underline;
 }
 ul, li {
   text-align: left;
