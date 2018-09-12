@@ -17,6 +17,11 @@ h1, h2, h3, h4, h5, h6 {
   text-align: center;
   line-height: 60%;
 }
+
+img{
+  width: 600px;
+}
+
 p, ul, ul, li, table, th, tr, td, span {
   color: #FFFFFF;
   font-family:"Oxygen", sans-serif;
