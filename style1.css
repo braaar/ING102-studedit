@@ -1,18 +1,33 @@
 body {
-  background-image: repeating-linear-gradient(green,yellow,orange,red);
+  background-color: #2F3136;
   text-align: center;
 }
+
+.wrapper {
+  background-color: #36393F;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 960px;
+  border-radius: 5px;
+}
+
 h1, h2, h3, h4, h5, h6 {
-  color: #6C1D45;
-  font-family: "Rockwell";
+  color: #7A7D82;
+  font-family: "Oswald", sans-serif;
   text-align: center;
+  line-height: 60%;
 }
-p, ul, ul, li, table, th, tr, td {
-  color: #6C1D45;
-  font-family:"Helvetica";
+p, ul, ul, li, table, th, tr, td, span, a {
+  color: #FFFFFF;
+  font-family:"Oxygen", sans-serif;
   text-align: center;
   padding-left:20%;
   padding-right:20%;
+  font-size: 13px;
+}
+
+a, a:link, a:visited, a:hover, a:active{
+  color: #0096CF;
 }
 ul, li {
   text-align: left;
@@ -35,8 +50,9 @@ th, tr, td {
 /* Navbar container */
 .navbar {
   overflow: hidden;
-  background-color: #333;
+  background-color: #23272A;
   font-family: Arial;
+  border-radius: 5px;
 }
 
 /* Links inside the navbar */
@@ -51,6 +67,6 @@ th, tr, td {
 
 /* Add a red background color to navbar links on hover */
 .navbar a:hover {
-  background-color: white;
-  color: #333;
+  background-color: #99AAB5;
+  color: #FFFFFF;
 }
