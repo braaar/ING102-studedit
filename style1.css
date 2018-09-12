@@ -17,7 +17,7 @@ h1, h2, h3, h4, h5, h6 {
   text-align: center;
   line-height: 60%;
 }
-p, ul, ul, li, table, th, tr, td, span {
+p, ul, li, table, th, tr, td, span {
   color: #FFFFFF;
   font-family:"Oxygen", sans-serif;
   text-align: center;
@@ -46,7 +46,9 @@ th, tr, td {
   border: 1px solid black;
   padding:1.2em;
 }
-
+span {
+  padding: 0%
+}
 /* Navbar container */
 .navbar {
   overflow: hidden;
@@ -54,7 +56,6 @@ th, tr, td {
   font-family: Arial;
   border-radius: 5px;
 }
-
 /* Links inside the navbar */
 .navbar a {
   float: left;
