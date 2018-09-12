@@ -45,7 +45,13 @@
   <h2>Stilling i gruppen</h2>
   <p>Brage er cloud manager i StudEdit, som vil si at han holder styr på github
       og andre tekniske skyløsninger. Han er også en backend-utvikler.</p>
-  <button>Ikke trykk</button>
+  <button onclick="audio.play ( )">Ikke trykk</button>
+  <script>
+    var audio = new Audio("kickshell.mp3");
+    audio.oncanplaythrough = function ( ) { }
+    audio.onended = function ( ) { }
+  </script>
+
   <!--legg <button> her, som gjør noe gøy, lenker til moroside, osv.-->
   </div>
 </body>
