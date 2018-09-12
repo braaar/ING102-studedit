@@ -1,13 +1,142 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <link rel="stylesheet" type="text/css" href="../style1.css">
+    <style>
+        h1 {
+            font-size: 40px; 
+            font-family: cursive;
+        }
+        
+        nav {
+            background-color: #fb8b24;
+            width: 1130px;
+            height: 40px;
+            border: 2px solid black;
+            font-size: 25px;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+        }
+        
+        li  {
+            list-style-type: none;
+            display: block;
+            color: #000;
+            padding: 8px 16px;
+            text-decoration: none;
+            border-bottom: 1px solid #555;
+        }
+        
+        
+        li a.active {
+            background-color: #E9FF70;
+            border: 2px solid black;
+            color: black;
+        }
+        
+        body {
+            background-color: lightcyan;
+        }
+        
+        #main {
+            background-color: lightseagreen;
+            width: 1000px;
+            height: 300px;
+            padding: 65px;
+            border: 15px  solid lightskyblue;
+            border: 2px solid black;
+            margin: 0px;
+        }
+        
+        img {
+            border: 2px solid black;
+            height: 200px;
+            width: 200px;
+            position: static;
+        }
+        
+        #part {
+          color: #FFD670;  
+          margin-left:300px;
+          position:relative;
+          right:30px;
+          bottom: 250px;
+        }
+            
+        #par {
+          position: relative;  
+          left:270px;
+          bottom: 250px;
+          margin: 0px;
+          font-size: 20px;
+        }
+        
+        table {
+          color:blue;  
+          margin-left:300px;
+          position:relative;
+          right:30px;
+          bottom: 200px;
+        }
+        
+        table, tr, td, th {
+         border: 2px solid black;
+        }
+        
+        #hi, #hi2, #hi3, #hi4 {
+           background-color: lightgreen;
+           color: black;
+           width: 100%;
+           height: 10px;
+           
+        }
+        
+        #S {
+         font-size: 30px;
+        }
+        
+        td {
+          font-size: 18px;
+        }
+        
+    </style>
 </head>
-
 <body>
-
- <h1>Christopher</h1>
- <p>Hei på deg!</p>
-
+    <h1>Christopher Nguyen</h1>
+    <nav>
+        <li>
+        <a class="active" href="">Hovedsiden</a> <!--IKKE FERDIG-->    
+        </li>
+    </nav>
+    <div id="main">
+    <img src="BILDER/potrettbilde.jpg" height="150px" width="150px">
+    <div>
+        <h1 id="part">Litt om meg</h1>
+        <p id="par"><b>Dette er Christopher Nguyen. Han er 19 år, og studerer IT ved HVL. </b><br> 
+        <p id="par"><b>Han bor ved skjold og studerte tidligere ved Sandsli Videregående skole.</b></p>
+         <table> 
+            <tr style="background-color:lightskyblue; color: black; width: 100%; height: 10px;">
+                <th id="S"><b>Jeg liker: </b></th>
+                <th id="S"><b>Jeg liker ikke: </b></th>   
+            </tr>
+            <tr id="hi">
+                <td>Youtube</td>
+                <td><b>ALLE</b> insekter</td>
+             </tr>
+             <tr id="hi2">
+                    <td>Høre på musikk</td>
+                    <td>Våkne tidlig</td>
+            </tr>
+             <tr id="hi3">
+                <td>Henge med venner</td>
+                 <td>Regn</td>
+             </tr>
+             <tr id="hi4">
+                <td>Trene</td>
+                <td></td>
+             </tr>
+        </table>
+    </div>
+    </div>
 </body>
 </html>
