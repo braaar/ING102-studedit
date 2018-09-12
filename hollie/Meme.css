@@ -6,3 +6,10 @@ span.meme {
 	
 }
 span
+p, ul, li, table, th, tr, td, span {
+  color: #FFFFFF;
+  font-family:"Oxygen", sans-serif;
+  font-size: 13px;
+  padding-right: 20%;
+  padding-left: 20%
+}
