@@ -26,8 +26,14 @@ p, ul, ul, li, table, th, tr, td, span {
   font-size: 13px;
 }
 
-a, a:link, a:visited, a:hover, a:active{
+a, a:link, a:visited, a:active{
   color: #0096CF;
+  text-decoration: none;
+
+}
+a:hover{
+  color: #0096CF;
+  text-decoration: underline;
 }
 ul, li {
   text-align: left;
