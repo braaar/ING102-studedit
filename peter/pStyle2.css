@@ -87,8 +87,9 @@ body{
 
 img{
   width: 500px; 
+  padding-top: 200px;
   animation-name: spinRound;
-  animation-duration: 1.0s;
+  animation-duration: 0.5s;
   animation-iteration-count: infinite;}
 
 .Topper{
