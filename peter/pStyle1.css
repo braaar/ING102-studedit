@@ -51,4 +51,4 @@ ul li{display: inline-block;}
 ul li p{float: top; padding-left: 10px; padding-right: 10px; background-color: #EF476F}
 
 
-ul ul li{background-color: #6DDCE5; padding: 5px; display: inline-block; width: 150px;  border: 2px solid black; text-align: center;}
+ol ul li{background-color: #6DDCE5; padding: 5px; display: inline-block; width: 150px;  border: 2px solid black; text-align: center;}
