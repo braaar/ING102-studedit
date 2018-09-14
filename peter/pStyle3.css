@@ -101,7 +101,14 @@ img{
 	width: 54%;
 	background-color: #c9c9ff;
 }
-ol li ul{
+
+ 
+ol{
+	padding: 10px;
+	padding-left: 20px;
+}
+
+ol li ul li{
 	display: inline-block;
 	padding: 10px;
 	margin: 10px;
