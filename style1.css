@@ -49,6 +49,18 @@ li {
   list-style-position:inside;
 }
 
+.UlLiUl{
+  padding-left: 1em;
+  list-style-type: none;
+  text-align: center;
+}
+.Nester{
+  margin-left: 30%;
+  margin-right: 40%;
+  text-align: center;
+  display: inline-block;
+}
+
 table {
   width:60%;
   border: 10px solid #23272A;
