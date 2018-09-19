@@ -94,8 +94,7 @@ th, tr, td {
   padding: 14px 16px;
   text-decoration: none;
   border-radius: 0px;
-  transition: background 250ms ease-in-out,
-                transform 150ms ease;
+  transition: background 400ms ease-in-out;
 }
 
 .navbar a:hover {
