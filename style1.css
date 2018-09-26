@@ -86,3 +86,11 @@ th, tr, td {
   color: #FFFFFF;
   cursor: pointer;
 }
+
+span.meme {
+
+}
+.meme:hover{
+  color:yellow;
+  
+}
