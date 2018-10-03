@@ -46,6 +46,7 @@ body{
 .Topper a:hover{
 	background-color: #d6a9a9;
 	color: #c9c9ff;
+	height: 150px;
 }
 
 #Epilepsy:hover{
