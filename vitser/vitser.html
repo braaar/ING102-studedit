@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="nb-no">
+<head>
+  <title>Template</title>
+  <link rel="stylesheet" type="text/css" href="../style1.css">
+  <link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Oxygen" rel="stylesheet">
+</head>
+
+
+<body>
+  <div class="wrapper">
+  <div class="navbar">
+    <a href="../index.html">Hjem</a>
+    <a href="../sondre/sondre.html">Sondre</a>
+    <a href="../hollie/hollie.html">Hollie</a>
+    <a href="../peter/peter.html">Peter</a>
+    <a href="../brage/brage.html">Brage</a>
+    <a href="../christopher/christopher.html">Christopher</a>
+    <a href="../persontemplate/persontemplate.html">Template</a>
+  </div>
+ <h1>Vitser</h1>
+<p>
+  <script>
+  // Get the XML document
+  var Connect = new XMLHttpRequest();
+  Connect.open("GET", "jokes.xml", false);
+  Connect.send(null);
+  // Place the response in an XML document
+  var docX = Connect.responseXML;
+  var e = docX.getElementsByTagName("joke");
+  // Get all the member elements and write the contents of the name tag
+  for (i = 0; i < e.length; i++) {
+    document.write(e[i].childNodes[0].nodeValue + "<br><br>");
+
+  }
+</script>
+</div>
+</body>
+</html>

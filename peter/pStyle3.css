@@ -29,7 +29,8 @@ body{
 .Topper{
 	width: 100%;
 	background-color: #c9c9ff;
-
+	height: 111px;
+	margin-bottom: 1em;
 }
 
 .Topper a{
@@ -46,6 +47,7 @@ body{
 .Topper a:hover{
 	background-color: #d6a9a9;
 	color: #c9c9ff;
+	height: 25px;
 }
 
 #Epilepsy:hover{
