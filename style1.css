@@ -102,10 +102,8 @@ th, tr, td {
   cursor: pointer;
 }
 
-span.meme {
 
-}
-.meme:hover{
+#meme:hover{
   color:yellow;
   
 }
