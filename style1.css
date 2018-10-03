@@ -50,19 +50,18 @@ li {
 }
 
 .UlLiUl{
-  padding-left: 1em;
+  padding-left: 0em;
   list-style-type: none;
-  text-align: center;
+  text-align: left;
 }
 .Nester{
   min-width: 330px;
   max-width: 40%;
   padding: 10px;
   margin-left: 30%;
-  margin-right: 30%;
-  text-align: center;
+  margin-right:40%;
+  text-align: left;
   display: inline-block;
-  background-color: #2F3136;
 }
 
 table {
