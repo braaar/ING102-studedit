@@ -111,3 +111,13 @@ span.meme {
   color:yellow;
   
 }
+
+#stilling{
+  white-space: pre-line;
+}
+#BlueWeb{
+display: inline-block;
+}
+#PastelWeb{
+color: pink;
+}
