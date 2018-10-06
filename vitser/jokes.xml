@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <jokes>
-  <joke>Davidsen1</joke>
+  <joke><![CDATA[What Kind of car does Anikin Skywalker drive<br />
+A toYODA!"]]></joke>
   <joke>Davidsen2</joke>
   <joke>Davidsen3</joke>
   <joke><![CDATA[Svensken, dansken og nordmannen satt og skrøt over hvem som hadde den minste bestefaren. <br />
