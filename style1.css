@@ -12,6 +12,8 @@ body {
   padding-bottom: 5px;
 }
 
+
+
 h1, h2, h3, h4, h5, h6 {
   color: #7A7D82;
   font-family: "Oswald", sans-serif;
@@ -108,4 +110,17 @@ span.meme {
 .meme:hover{
   color:yellow;
   
+}
+
+#stilling{
+  white-space: pre-line;
+}
+#BlueWeb{
+display: inline-block;
+}
+#PastelWeb{
+color: pink;
+}
+#PBilde{
+  width: 600px;
 }

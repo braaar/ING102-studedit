@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <jokes>
-  <joke>Davidsen1</joke>
+  <joke><![CDATA[What Kind of car does Anikin Skywalker drive<br />
+A toYODA!"]]></joke>
   <joke>Davidsen2</joke>
   <joke>Davidsen3</joke>
-  <joke>Davidsen4</joke>
-  <joke>Læreren: – I morgen er det 17 mai,og alle må gå i tog.<br>
-Blondinen: – Men jeg kan ikke.<br>
-Læreren: – Hvorfor ikke?<br>
-Blondinen: – Jeg blir togsyk.</joke>
+  <joke><![CDATA[Svensken, dansken og nordmannen satt og skrøt over hvem som hadde den minste bestefaren. <br />
+Svensken: "Min bestefar er så liten at han kan stå oppreist under et bord." <br />
+"Det er nå ingenting," sa dansken. "Min bestefar er så liten at han kan stå oppreist under en stol." <br />
+Da begynte Nordmannen å gråte. "Min bestefar er død. Han døde da han falt ned fra teppekanten."]]></joke>
+
+  <joke><![CDATA[Læreren: I morgen er det 17 mai, og alle må gå i tog. <br />
+Blondinen: Men jeg kan ikke. <br />
+Læreren: Hvorfor ikke? <br />
+Blondinen: Jeg blir togsyk.]]></joke>
 </jokes>
