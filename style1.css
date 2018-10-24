@@ -124,3 +124,7 @@ color: pink;
 #PBilde{
   width: 600px;
 }
+a.links{
+  padding: 1em;
+  color: PaleGreen;
+}
