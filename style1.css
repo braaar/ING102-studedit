@@ -10,6 +10,7 @@ body {
   max-width: 960px;
   border-radius: 5px;
   padding-bottom: 5px;
+  padding-top:48px;
 }
 
 
@@ -18,7 +19,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #7A7D82;
   font-family: "Oswald", sans-serif;
   text-align: center;
-  line-height: 60%;
+
 }
 
 p, ul, ul li ul, li, table, th, tr, td, a {
@@ -82,8 +83,11 @@ th, tr, td {
 .navbar {
   overflow: hidden;
   background-color: #23272A;
-  font-family: Arial;
-  border-radius: 5px;
+  border:0px;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  left:0;
 }
 
 .navbar a {
@@ -109,7 +113,7 @@ span.meme {
 }
 .meme:hover{
   color:yellow;
-  
+
 }
 
 #stilling{
