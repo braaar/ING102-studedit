@@ -19,7 +19,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #7A7D82;
   font-family: "Oswald", sans-serif;
   text-align: center;
-
+  line-height: 60%;
 }
 
 p, ul, ul li ul, li, table, th, tr, td, a {
